@@ -2,7 +2,7 @@ name: rc-docs
 channels:
   - conda-forge
 dependencies:
-  - python==3.11.9
+  - python==3.14.6
   - sphinx==7.3.7 
   - myst-parser==3.0.1
   - graphviz==12.0.0
